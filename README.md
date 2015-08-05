@@ -20,3 +20,7 @@ http://google.github.io/styleguide/javaguide.html
 
 #### Formatter
 https://github.com/google/styleguide
+
+### Useful links
+#### .gitignore.io
+https://www.gitignore.io/
