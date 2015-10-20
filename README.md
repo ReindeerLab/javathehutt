@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ReindeerLab/javathehutt.png?label=ready&title=Ready)](https://waffle.io/ReindeerLab/javathehutt)
 # javathehutt
 Javaがんばるよ
 
