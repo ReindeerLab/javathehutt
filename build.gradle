@@ -45,6 +45,9 @@ dependencies {
   // Lombok
   compile('org.projectlombok:lombok:1.16.6')
 
+  // DBFlute
+  compile('org.dbflute:dbflute-runtime:1.1.0-sp8')
+
   // Unit Testing
   testCompile('org.springframework.boot:spring-boot-starter-test') 
 }
