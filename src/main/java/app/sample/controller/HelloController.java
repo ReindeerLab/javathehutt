@@ -1,11 +1,11 @@
-package hutt.sample.controller;
-
-import lombok.Getter;
-import lombok.Setter;
+package app.sample.controller;
 
 import org.hibernate.validator.constraints.NotBlank;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import lombok.Getter;
+import lombok.Setter;
 
 @RestController
 public class HelloController {
